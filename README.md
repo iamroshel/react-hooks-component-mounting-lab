@@ -1,4 +1,4 @@
-# Component Mounting and Unmounting Lab
+# Component Mounting and Unmounting Lab c
 
 ## Learning Goals
 
